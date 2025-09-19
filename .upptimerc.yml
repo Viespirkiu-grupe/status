@@ -39,7 +39,7 @@ sites:
     icon: https://eviesiejipirkimai.lt/templates/vpt/cvpp_files/favicon0.png
     url: https://eviesiejipirkimai.lt
     type: globalping
-    location: kpocius # Vilnius, Lithuania
+    location: Lithuania+eyeball # residential IP
   - name: CVP IS (sena-2)
     url: https://pirkimai.eviesiejipirkimai.lt
     type: globalping
