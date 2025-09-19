@@ -4,11 +4,13 @@ repo: status
 sites:
   - name: Viešpirkiai
     url: https://viespirkiai.top
+    type: globalping
+    location: Lithuania
 
 status-website:
   cname: status.viespirkiai.top
   logoUrl: https://viespirkiai.top/icons/icon.png
-  name: Status
+  name: Viešpirkiai ir KO
   introTitle: ""
   introMessage: ""
   navbar:
