@@ -17,15 +17,11 @@ sites:
     url: $RDP
     port: 80
     check: tcp-ping
-    type: globalping
-    location: Lithuania
   - name: Dokumentų nuskaitytojas (RFC)
     icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f4d1.png
     url: $RFC
     port: 9120
     check: tcp-ping
-    type: globalping
-    location: Lithuania
   - name: Dokumentų nuskaitytojas (MŠK)
     icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f4d1.png
     url: https://skaitytojas.poci.us/healthz
