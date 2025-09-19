@@ -6,10 +6,9 @@ sites:
     url: https://viespirkiai.top
 
 status-website:
-  # cname: demo.upptime.js.org
-  baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  cname: status.viespirkiai.top
+  logoUrl: https://viespirkiai.top/icons/icon.png
+  name: Status
   introTitle: ""
   introMessage: ""
   navbar:
