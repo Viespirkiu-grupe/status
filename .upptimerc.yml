@@ -3,19 +3,53 @@ repo: status
 
 sites:
   - name: Viešpirkiai
+    slug: viespirkiai
     url: https://viespirkiai.top
+    type: globalping
+    location: Lithuania
+  - name: Failai
+    slug: failai
+    url: https://failai.viespirkiai.top
+    type: globalping
+    location: Lithuania
+  - name: CVPP
+    slug: cvpp
+    url: https://cvpp.eviesiejipirkimai.lt
+    type: globalping
+    location: Lithuania
+  - name: CVP IS
+    slug: cvp-is
+    url: https://viesiejipirkimai.lt
+    type: globalping
+    location: Lithuania
+  - name: CVP IS (sena-1)
+    slug: cvp-is-old-1
+    url: https://eviesiejipirkimai.lt
+    type: globalping
+    location: Lithuania
+  - name: CVP IS (sena-2)
+    slug: cvp-is-old-2
+    url: https://pirkimai.eviesiejipirkimai.lt
+    type: globalping
+    location: Lithuania
+  - name: VPT
+    slug: vpt
+    url: https://vpt.lrv.lt
+    type: globalping
+    location: Lithuania
+  - name: TED
+    slug: ted
+    url: https://ted.europa.eu
     type: globalping
     location: Lithuania
 
 status-website:
   cname: status.viespirkiai.top
   logoUrl: https://viespirkiai.top/icons/icon.png
-  name: Viešpirkiai ir KO
+  name: Viešpirkiai Status
   introTitle: ""
   introMessage: ""
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Viešpirkiai
