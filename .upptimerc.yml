@@ -53,6 +53,10 @@ sites:
     url: https://ted.europa.eu
     type: globalping
     location: Lithuania
+  - name: Borked
+    url: https://poci.us
+    type: globalping
+    location: russia
 
 status-website:
   cname: status.viespirkiai.top
