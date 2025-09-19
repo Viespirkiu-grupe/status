@@ -4,11 +4,13 @@ repo: status
 sites:
   - name: Viešpirkiai
     slug: viespirkiai
+    icon: https://viespirkiai.top/icons/icon.png
     url: https://viespirkiai.top
     type: globalping
     location: Lithuania
   - name: Failai
     slug: failai
+    icon: https://viespirkiai.top/icons/icon.png
     url: https://failai.viespirkiai.top
     type: globalping
     location: Lithuania
