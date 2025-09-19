@@ -3,46 +3,38 @@ repo: status
 
 sites:
   - name: Viešpirkiai
-    slug: viespirkiai
     icon: https://viespirkiai.top/icons/icon.png
     url: https://viespirkiai.top
     type: globalping
     location: Lithuania
   - name: Failai
-    slug: failai
     icon: https://viespirkiai.top/icons/icon.png
     url: https://failai.viespirkiai.top
     type: globalping
     location: Lithuania
   - name: CVPP
-    slug: cvpp
     url: https://cvpp.eviesiejipirkimai.lt
     type: globalping
     location: Lithuania
   - name: CVP IS
-    slug: cvp-is
     url: https://viesiejipirkimai.lt
     type: globalping
     location: Lithuania
   - name: CVP IS (sena-1)
-    slug: cvp-is-old-1
     icon: https://eviesiejipirkimai.lt/templates/vpt/cvpp_files/favicon0.png
     url: https://eviesiejipirkimai.lt
     type: globalping
     location: 2dpcDmtg63sOjo7l # Vilnius
   - name: CVP IS (sena-2)
-    slug: cvp-is-old-2
     url: https://pirkimai.eviesiejipirkimai.lt
     type: globalping
     location: Lithuania
   - name: VPT
-    slug: vpt
     icon: https://vpt.lrv.lt/static/favicon/apple-touch-icon.1cbee2523114.png
     url: https://vpt.lrv.lt
     type: globalping
     location: Lithuania
   - name: TED
-    slug: ted
     url: https://ted.europa.eu
     type: globalping
     location: Lithuania
