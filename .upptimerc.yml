@@ -24,9 +24,9 @@ sites:
     check: tcp-ping
   - name: Dokumentų nuskaitytojas (MŠK)
     icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f4d1.png
-    url: https://skaitytojas.poci.us/healthz
-    type: globalping
-    location: Lithuania
+    url: https://skaitytojas.poci.us
+    port: 443
+    check: tcp-ping
   - name: CVPP
     url: https://cvpp.eviesiejipirkimai.lt
     type: globalping
