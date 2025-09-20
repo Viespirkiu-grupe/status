@@ -1,7 +1,7 @@
-url: skaitytojas.poci.us
+url: https://skaitytojas.poci.us/healthz
 status: up
 code: 200
-responseTime: 5
-lastUpdated: 2025-09-20T18:20:35.551Z
+responseTime: 116
+lastUpdated: 2025-09-20T18:31:44.740Z
 startTime: 2025-09-19T20:59:14.767Z
 generator: Upptime <https://github.com/upptime/upptime>
