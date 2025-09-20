@@ -60,19 +60,19 @@
     "url": "$RFC",
     "icon": "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f4d1.png",
     "slug": "dokumentu-nuskaitytojas-rfc",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 5
     }
   },
   {
