@@ -6,7 +6,7 @@
     "slug": "viespirkiai",
     "status": "down",
     "uptime": "97.17%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "97.17%",
@@ -16,7 +16,7 @@
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-09-23": 0,
+      "2025-09-23": 1,
       "2025-09-21": 154,
       "2025-09-20": 8
     }
