@@ -32,6 +32,11 @@ sites:
     url: http://$MKL:42069/healthz
     type: globalping
     location: Lithuania
+  - name: Dokumentų nuskaitytojas (LMP)
+    icon: https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f4d1.png
+    url: http://$LMP/healthz
+    type: globalping
+    location: Lithuania
   - name: CVPP
     url: https://cvpp.eviesiejipirkimai.lt
     type: globalping
